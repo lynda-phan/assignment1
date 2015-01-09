@@ -4,6 +4,8 @@ I don't really have any hobbies. Weird, I know! I enjoy reading, cooking, and sp
 
 My favorite places to eat in San Diego includes Sushi Ota, Alexanders, Muzita, and Iron Side. Yum!
 
+I feel really lucky to be living in San Diego. The weather is always nice and the people are friendly ... depending on where you go. :)
+
 # Programming Background
 
 I don't really have much of a programming background. I graduated from SDSU with a degree in Business Management and decided after a year of working that I wanted to be a Software Engineer. I dabbled with Python and Ruby for a few months and thought it would be a great industry to get into. So far, it has been difficult but extremely rewarding!
